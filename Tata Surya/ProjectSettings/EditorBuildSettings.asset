@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Hal_Utama/MenuUtama.unity
+    guid: 397e23958b1015b40801becf354828e9
+  - enabled: 1
+    path: Assets/Scenes/tentang/tentang.unity
+    guid: a9a895fb80118a04d92c9482f8173873
+  - enabled: 1
+    path: Assets/Scenes/Kuis/kuis1.unity
+    guid: 7bfdd639c7df3564ca5a3b9dd1994701
+  - enabled: 1
+    path: Assets/Scenes/Kuis/kuis2.unity
+    guid: 45f9db9b89ae3c449a9ff65311f0d8e6
+  - enabled: 1
+    path: Assets/Scenes/Petunjuk/petunjuk.unity
+    guid: 9cc8ea2b92fce864e90a943f457d3960
+  - enabled: 1
+    path: Assets/Scenes/Mulai_AR/Objek 3.unity
+    guid: 8bc14f7779584844aae0c40cffaf1dd6
+  - enabled: 1
+    path: Assets/Scenes/Mulai_AR/selengkapnya.unity
+    guid: 2ac29a6c0736f9e4ab8423ffd61c34d5
+  m_configObjects: {}

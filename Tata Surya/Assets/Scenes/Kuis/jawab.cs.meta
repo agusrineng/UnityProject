@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82a4f066811947b42b37c5b87cd25037
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - buttonSound: {instanceID: 0}
+  - click: {instanceID: 0}
+  - feed_benar: {instanceID: 0}
+  - feed_salah: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
