@@ -1,16 +1,17 @@
 Android
 PlayerPath?
-C:/Unity3D/tts3.apk
+C:/Unity3D/tts6.apk
 SceneListBegin?
 Assets/Scenes/Hal_Utama/MenuUtama.unity
 Assets/Scenes/tentang/tentang.unity
 Assets/Scenes/Kuis/kuis1.unity
 Assets/Scenes/Kuis/kuis2.unity
-Assets/Scenes/Petunjuk/petunjuk.unity
 Assets/Scenes/Mulai_AR/Objek 3.unity
 Assets/Scenes/Mulai_AR/selengkapnya.unity
+Assets/Scenes/Petunjuk/petunjuk2.unity
 SceneListEnd?
 71bb6a6b6c8f052f948db64c7dd3ca4f VuforiaScripts.dll:.BoundingBoxRenderer
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.awalan
 4bc14b2add01b13dfce7aaa476eea9cc Assembly-CSharp.dll:.keluar
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 a1c00d1e10cbc9ad31c5a155293e0dbc LeanTouch.dll:Lean.Touch.LeanFingerSet
@@ -102,6 +103,7 @@ fc108ce7d98c40ac0907e8ca7f500c76 UnityEngine.UI.dll:UnityEngine.UI.Text
 abf1930d8126d0b2e00e9449129a0190 UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 64e54c0cbb0177c5ea26f340efb9ff85 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
 fe29ae2aa38c9237768b1f22cddf449d LeanTouch.dll:Lean.Touch.LeanTwistRotateAxis
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.fpx
 eb27b06c0eaa67d17f6c84edaee630af LeanTouch.dll:Lean.Touch.LeanRoll
 cf1ad9af57e51d3949ba525fb4534068 LeanTouch.dll:Lean.Touch.LeanDestroy
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
@@ -174,6 +176,7 @@ fe10de86e42ce80dc24cf76ac1c87c2a Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 69167579cf7fcbb2676fc1e675963dcd Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehaviour
 fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
+7cf430f5ded2b83f8376387eac6ca2a8 Assembly-CSharp.dll:.muncul
 0077fc8e4fbae67f80e80ebd534de5a0 Vuforia.UnityExtensions.dll:Vuforia.AnchorBehaviour
 f8b139fcde9fda6214245df246415cc7 Vuforia.UnityExtensions.dll:Vuforia.AnchorInputListenerBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.BackgroundPlaneBehaviour
@@ -208,7 +211,7 @@ fe10de86e42ce80dc24cf76ac1c87c2a Vuforia.UnityExtensions.dll:Vuforia.VuforiaConf
 fbbf64dcbe0662e3eda1dec45ea8f895 Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 71bb6a6b6c8f052f948db64c7dd3ca4f Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 a73cc7e0d8575dd7105e0f0616a7253a LeanTouch.dll:Lean.Touch.LeanPulseScale
-357b4b64415ee79cb0242e418217f2f7 Assembly-CSharp.dll:.jawab
+c681612e55651e431e4558795bca29fc Assembly-CSharp.dll:.jawab
 b3ab2106268377ffe25dd18ac23dca28 Unity.TextMeshPro.dll:TMPro.TMP_Asset
 f130a8423e6424a57c8b7679ec028c5d LeanTouch.dll:Lean.Touch.LeanTwistRotate
 f5ffcb8f21f84063f9ce39a04b2b0209 Assembly-CSharp.dll:Vuforia.description
@@ -219,6 +222,7 @@ f5622fa3abc8622a6c2dd4fac79b7fe3 Assembly-CSharp.dll:.tentangclose
 74f0cab81692ade12853ace08be9e279 Assembly-CSharp.dll:Vuforia.TargetData
 f5622fa3abc8622a6c2dd4fac79b7fe3 Assembly-CSharp.dll:.kuisclose
 4fd8bf02e3089425d3502e26c44ba31a Unity.TextMeshPro.dll:TMPro.TextContainer
+116fa47fdd7aaa46278e3583eb3bf60a Assembly-CSharp.dll:.testingtew
 964dce81080816542d4e5b1440191200 LeanTouch.dll:Lean.Touch.LeanTouch
 4326d1e3ad2be563855e0ee0cac8ddb9 LeanCommon.dll:Lean.Common.Examples.LeanCircuit
 e6ae40841db498b6e673877ac45ad208 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
@@ -277,6 +281,7 @@ da5610c976611be6478e2d6da6e5f275 LeanTouch.dll:Lean.Touch.LeanFingerUp
 5372ed2ce39229b1ac910757999a8be2 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 3165968ba45c74472d279ba04455fccb Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 f61c149aa6de9695d374ae5f3e87f8ce Assembly-CSharp.dll:.scroll
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.DownloadImage
 4e0bfd1d29eec1f3cda6b997a7d81004 LeanTouch.dll:Lean.Touch.LeanDragTrail
 39a9bb9768c8206c97dc997d364a6275 LeanTouch.dll:Lean.Touch.LeanSpawn
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
